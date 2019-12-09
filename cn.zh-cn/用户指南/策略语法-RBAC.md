@@ -9,7 +9,7 @@
 
 ## 策略语法<a name="zh-cn_topic_0169881971_zh-cn_topic_0169425416_section76852310268"></a>
 
-如下以SDRS服务的“SDRS Administraor“为例，说明RBAC策略语法。
+如下以SDRS服务的“SDRS Administrator“为例，说明RBAC策略语法。
 
 **图 2**  策略内容<a name="zh-cn_topic_0169881971_zh-cn_topic_0169425416_fig16534154617489"></a>  
 ![](figures/策略内容.png "策略内容")
