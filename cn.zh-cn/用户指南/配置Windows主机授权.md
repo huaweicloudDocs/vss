@@ -25,10 +25,10 @@
 
     >![](public_sys-resources/icon-note.gif) **说明：**   
     >-   用户也可以单台主机授权，在目标主机所在行的“操作“列，单击“配置授权信息“。  
-    >-   如果需要修改主机名称，单击![](figures/编辑小图标-6.png)，在弹出的对话框中，进行修改。  
+    >-   如果需要修改主机名称，单击![](figures/编辑小图标-9.png)，在弹出的对话框中，进行修改。  
 
     **图 2**  批量授权<a name="fig37091438195719"></a>  
-    ![](figures/批量授权-7.png "批量授权-7")
+    ![](figures/批量授权-10.png "批量授权-10")
 
 4.  在弹出的对话框中，选择已有windows授权，或者单击“创建windows授权“创建windows授权，如[图3](#fig1851741671217)所示。
 
@@ -60,8 +60,8 @@
     </tr>
     <tr id="row84203016138"><td class="cellrowborder" valign="top" width="40.21%" headers="mcps1.2.3.1.1 "><p id="p6417306136"><a name="p6417306136"></a><a name="p6417306136"></a>选择加密密钥</p>
     </td>
-    <td class="cellrowborder" valign="top" width="59.79%" headers="mcps1.2.3.1.2 "><p id="p1996864217345"><a name="p1996864217345"></a><a name="p1996864217345"></a>为了保护主机登录密码或密钥安全，要求您必须使用加密密钥，以避免登录密码或密钥明文存储和泄露风险。</p>
-    <p id="p6453081317"><a name="p6453081317"></a><a name="p6453081317"></a>您可以选择已有的加密密钥，或者单击<span class="parmvalue" id="vss_01_0072_parmvalue4481414131918"><a name="vss_01_0072_parmvalue4481414131918"></a><a name="vss_01_0072_parmvalue4481414131918"></a>“创建密钥”</span>，在数据库加密服务的<span class="wintitle" id="vss_01_0072_wintitle431673312219"><a name="vss_01_0072_wintitle431673312219"></a><a name="vss_01_0072_wintitle431673312219"></a>“密钥管理”</span>界面创建新的密钥。</p>
+    <td class="cellrowborder" valign="top" width="59.79%" headers="mcps1.2.3.1.2 "><p id="p1996864217345"><a name="p1996864217345"></a><a name="p1996864217345"></a>为了保护主机登录密码或密钥安全，请您必须使用加密密钥，以避免登录密码或密钥明文存储和泄露风险。</p>
+    <p id="p6453081317"><a name="p6453081317"></a><a name="p6453081317"></a>您可以选择已有的加密密钥，或者单击<span class="parmvalue" id="vss_01_0072_parmvalue4481414131918"><a name="vss_01_0072_parmvalue4481414131918"></a><a name="vss_01_0072_parmvalue4481414131918"></a>“创建密钥”</span>，在数据加密服务的<span class="wintitle" id="vss_01_0072_wintitle431673312219"><a name="vss_01_0072_wintitle431673312219"></a><a name="vss_01_0072_wintitle431673312219"></a>“密钥管理”</span>界面创建新的密钥。</p>
     <div class="notice" id="note14521044112515"><a name="note14521044112515"></a><a name="note14521044112515"></a><span class="noticetitle"> 须知： </span><div class="noticebody"><a name="vss_01_0072_ul37241450132619"></a><a name="vss_01_0072_ul37241450132619"></a><ul id="vss_01_0072_ul37241450132619"><li>使用数据加密服务需要单独计费，详细的服务资费和费率标准，请参见<a href="https://www.huaweicloud.com/pricing.html?tab=detail#/dew" target="_blank" rel="noopener noreferrer">价格详情</a>。</li><li>VSS支持以下区域的密钥：<a name="vss_01_0072_ul791718300011"></a><a name="vss_01_0072_ul791718300011"></a><ul id="vss_01_0072_ul791718300011"><li>华北-北京一</li><li>华南-广州</li><li>华东-上海二</li></ul>
     <p id="vss_01_0072_p122782719372"><a name="vss_01_0072_p122782719372"></a><a name="vss_01_0072_p122782719372"></a>请您选择这些区域已有的加密密钥或者在这些区域创建密钥。有关创建密钥的详细操作，请参见<a href="https://support.huaweicloud.com/usermanual-dew/zh-cn_topic_0034324884.html" target="_blank" rel="noopener noreferrer">创建密钥</a>。</p>
     </li></ul>
