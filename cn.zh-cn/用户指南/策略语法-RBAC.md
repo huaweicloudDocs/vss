@@ -4,8 +4,8 @@
 
 策略结构包括：策略版本号（Version）、策略授权语句（Statement）和策略依赖（Depends）。
 
-**图 1**  策略结构<a name="zh-cn_topic_0169881971_zh-cn_topic_0169425416_fig288933182617"></a>  
-![](figures/策略结构.png "策略结构")
+**图 1**  策略结构（RBAC）<a name="zh-cn_topic_0169881971_zh-cn_topic_0169425416_fig288933182617"></a>  
+![](figures/策略结构（RBAC）.png "策略结构（RBAC）")
 
 ## 策略语法<a name="zh-cn_topic_0169881971_zh-cn_topic_0169425416_section76852310268"></a>
 
