@@ -13,14 +13,7 @@
 </th>
 </tr>
 </thead>
-<tbody><tr id="zh-cn_topic_0113516422_row66834545181417"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0113516422_p11686123319451"><a name="zh-cn_topic_0113516422_p11686123319451"></a><a name="zh-cn_topic_0113516422_p11686123319451"></a>创建预扫描任务</p>
-</td>
-<td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0113516422_p58720953181455"><a name="zh-cn_topic_0113516422_p58720953181455"></a><a name="zh-cn_topic_0113516422_p58720953181455"></a>SCAN</p>
-</td>
-<td class="cellrowborder" valign="top" width="53%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0113516422_p194518515453"><a name="zh-cn_topic_0113516422_p194518515453"></a><a name="zh-cn_topic_0113516422_p194518515453"></a>createPreScanTask</p>
-</td>
-</tr>
-<tr id="zh-cn_topic_0113516422_row29947516181417"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0113516422_p38551357181455"><a name="zh-cn_topic_0113516422_p38551357181455"></a><a name="zh-cn_topic_0113516422_p38551357181455"></a>创建扫描任务</p>
+<tbody><tr id="zh-cn_topic_0113516422_row29947516181417"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0113516422_p38551357181455"><a name="zh-cn_topic_0113516422_p38551357181455"></a><a name="zh-cn_topic_0113516422_p38551357181455"></a>创建扫描任务</p>
 </td>
 <td class="cellrowborder" valign="top" width="22%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0113516422_p93236119119"><a name="zh-cn_topic_0113516422_p93236119119"></a><a name="zh-cn_topic_0113516422_p93236119119"></a>SCAN</p>
 </td>

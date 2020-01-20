@@ -72,7 +72,11 @@
         <tr id="row174811414131910"><td class="cellrowborder" valign="top" width="38.07%" headers="mcps1.2.3.1.1 "><p id="p1248191401910"><a name="p1248191401910"></a><a name="p1248191401910"></a>选择加密密钥</p>
         </td>
         <td class="cellrowborder" valign="top" width="61.92999999999999%" headers="mcps1.2.3.1.2 "><p id="p6310449102613"><a name="p6310449102613"></a><a name="p6310449102613"></a>为了保护主机登录密码或密钥安全，请您必须使用加密密钥，以避免登录密码或密钥明文存储和泄露风险。</p>
-        <p id="p0481214191913"><a name="p0481214191913"></a><a name="p0481214191913"></a>如果没有可选的加密密钥，请单击<span class="parmvalue" id="parmvalue4481414131918"><a name="parmvalue4481414131918"></a><a name="parmvalue4481414131918"></a>“创建密钥”</span>，创建VSS专用的默认主密钥。</p>
+        <p id="p0481214191913"><a name="p0481214191913"></a><a name="p0481214191913"></a>您可以选择已有的加密密钥，如果没有可选的加密密钥，请单击<span class="parmvalue" id="parmvalue4481414131918"><a name="parmvalue4481414131918"></a><a name="parmvalue4481414131918"></a>“创建密钥”</span>，创建VSS专用的默认主密钥。</p>
+        <div class="notice" id="note94368616182"><a name="note94368616182"></a><a name="note94368616182"></a><span class="noticetitle"> 须知： </span><div class="noticebody"><a name="ul1392417162514"></a><a name="ul1392417162514"></a><ul id="ul1392417162514"><li>您也可以在数据加密服务的以下区域创建密钥：<a name="ul9281916165614"></a><a name="ul9281916165614"></a><ul id="ul9281916165614"><li>华北-北京一</li><li>华南-广州</li><li>华东-上海二</li></ul>
+        <p id="p144420487251"><a name="p144420487251"></a><a name="p144420487251"></a>有关创建密钥的详细操作，请参见<a href="https://support.huaweicloud.com/usermanual-dew/zh-cn_topic_0034324884.html" target="_blank" rel="noopener noreferrer">创建密钥</a>。</p>
+        </li><li>使用数据加密服务需要单独计费，详细的服务资费和费率标准，请参见<a href="https://www.huaweicloud.com/pricing.html#/dew" target="_blank" rel="noopener noreferrer">价格详情</a>。</li></ul>
+        </div></div>
         </td>
         </tr>
         <tr id="row1548161491918"><td class="cellrowborder" valign="top" width="38.07%" headers="mcps1.2.3.1.1 "><p id="p34811214141919"><a name="p34811214141919"></a><a name="p34811214141919"></a>Root权限是否加固</p>
